@@ -4,7 +4,7 @@ This project presents a robust framework for anomaly detection in multivariate t
 
 ## 📝 Implementation Details
 
-- **File:** `i221138_A.ipynb`
+- **File:** `experiment1.ipynb`
 - **Dataset Source:** Local CSV file, expected at ./data/creditcard.csv`.
 - **Core Libraries:** PyTorch, Pandas, NumPy, Scikit-learn.
 
